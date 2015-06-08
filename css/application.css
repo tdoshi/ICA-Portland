@@ -300,10 +300,10 @@ img.bg {
 .jumbotron{
 	font-size: 24px;
 	padding: 2px 2px 2px 2px;
-	width: 30%;
+	width: 60%;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: rgba(255, 255, 255, .5);
-	font-family: CodeLight;
+	font-family: CodeBold;
 
 }
