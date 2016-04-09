@@ -320,3 +320,9 @@ img.bg {
 .preLink:hover{
 	color: rgb(0,0,0);
 }
+
+@media only screen and (max-width: 375px) {
+
+   .mainPage { font-size: 40px; line-height: 45px; }
+
+}
