@@ -224,6 +224,7 @@ img.bg {
 	font-size: 25px;
 	opacity: .7;
 	margin-top: 3%;
+	line-height:22px;
 }
 
 .sponsorColor{
@@ -282,6 +283,7 @@ img.bg {
 .linkText{
 	font-style: italic;
 	font-size: 14px;
+	text-decoration: underline;
 }
 
 .contactCont{
