@@ -37,6 +37,23 @@ div {
 	margin-left: 50px;
 }
 
+.navbar-static-top, .navbar-fixed-top, .navbar-fixed-bottom {
+	box-shadow:none;
+	border:none;
+}
+
+.navbar-inner {
+  background-color: #ffffff; 
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-repeat: no-repeat;
+  filter: none;
+}
+
 .relDiv{
 	position: relative;
 	text-align: center;
