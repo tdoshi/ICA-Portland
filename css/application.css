@@ -76,7 +76,7 @@ img.bg {
 .portland{
 	position: relative;
 	color: black;
-	font-weight: bold;
+	font-weight: 900;
 	font-size: 30px;
 	font-family: CodeLight;
 }
@@ -293,12 +293,15 @@ img.bg {
 
 .jumbotron{
 	font-size: 24px;
-	padding: 10px 10px 40px 10px;
-	width: 60%;
+	padding: 10px 10px 10px 10px;
+	width: 45%;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: rgba(255, 255, 255, .5);
 	font-family: CodeBold;
+	border-color: rgb(182,47,45);
+	border-width: 7px;
+	border-style: solid;
 
 }
 
@@ -314,10 +317,22 @@ img.bg {
 	margin-top: 3%;
 }
 
+.mainlink{
+	display: block;
+    font-size: 1.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.3em;
+    color: rgb(56,56,56);
+/*    margin-left: 0;
+    margin-right: 0;
+*/    font-weight: bold;
+}
+
 .mainlink:hover{
 	color: rgb(182,47,45);
-	font-size: 28px;
-}
+	text-decoration: none;
+/*	font-size: 28px;
+*/}
 
 .preLink:hover{
 	color: rgb(0,0,0);
