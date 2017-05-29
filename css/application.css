@@ -351,6 +351,14 @@ img.bg {
 /*	font-size: 28px;
 */}
 
+.mainlink:visited{
+	text-decoration: none;
+}
+
+.mainlink:visited{
+	text-decoration: none;
+}
+
 .preLink:hover{
 	color: rgb(0,0,0);
 }
